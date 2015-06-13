@@ -1,5 +1,7 @@
 #WTFTW wiki
 
+[Edit this page](https://github.com/nathanross/wtftw-wiki/edit/master/README.md) (You must create a github acocunt if you have not already.)
+
 this is a little wiki of WTFTW (Window Tiling For The Win - the tiling window manager) tips.
 
 #### Help, it's not working!
