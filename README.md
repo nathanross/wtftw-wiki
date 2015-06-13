@@ -1,8 +1,11 @@
 #WTFTW wiki
 
-[Edit this page](https://github.com/nathanross/wtftw-wiki/edit/master/README.md) (You must create a github acocunt if you have not already.)
-
 this is a little wiki of WTFTW (Window Tiling For The Win - the tiling window manager) tips.
+
+[Edit this page](https://github.com/nathanross/wtftw-wiki/edit/master/README.md) (It is easy to create a github acocunt if you do not have one.)
+
+
+## Getting Started
 
 #### Help, it's not working!
 
@@ -19,6 +22,8 @@ Do not worry! by default WTFTW
  * if you are unfamiliar with terminals, don't worry, you can still use your computer before you've learned to make great use of it. once the terminal opens, type an exclamation mark, a space, then the name of your favorite installed program like ```! chromium``` or ```! localc``` then press enter. Now you are cooking ! You no longer need to navigate through start menu directories.
 
 * The terminal is very powerful and in time, you can learn to do faster and better with it many functions that you used other programs for (file exploration and searching, system utilities). E.g. on ubuntu just type ```apt-get install libreoffice-calc``` to install Libreoffice Calc.
+
+## Customizing it
 
 ### How do I see my WTFTW configuration changes while I edit it?
 
